@@ -1,0 +1,1 @@
+{"uuid":"35b7d30d-63c1-4c76-a23a-e35da999af90","name":"com.fashlab.tests.LoginTest","children":["3049ece2-2608-4e1f-a62d-2fd0b820de20"],"befores":[{"name":"navigateToFashionLab","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1639760980230,"stop":1639761014704}],"afters":[],"start":1639760980210,"stop":1639761048773}
